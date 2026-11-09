@@ -660,4 +660,3 @@ function formatResetTime(resetSeconds) {
     minute: "2-digit",
   });
 }
-
